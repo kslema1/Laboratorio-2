@@ -98,7 +98,7 @@ Figura 2.3 Circuito simulado en el software Thinkercad.
 
 2.5.4. Experimente en un protoboard, el circuito de la figura 2.1, obteniendo los valores de las corrientes de la malla. Anote los resultados en la tabla.
 
-IMAGEN DEL TRABAJO
+![image](https://user-images.githubusercontent.com/116772752/202762763-7c38ee79-c5c8-4faa-9d9c-d821358ab9e2.png)
 
 Figura 2.4 Circuito experimental en protoboard.
 
